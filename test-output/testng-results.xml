@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-08T04:32:12Z" name="Default suite" finished-at="2021-04-08T04:32:18Z" duration-ms="5594">
+    <groups>
+    </groups>
+    <test started-at="2021-04-08T04:32:12Z" name="Default test" finished-at="2021-04-08T04:32:18Z" duration-ms="5594">
+      <class name="Testframework.Restassured.twitter">
+        <test-method signature="createandDeletetweet()[pri:0, instance:Testframework.Restassured.twitter@41fe9859]" started-at="2021-04-08T10:02:12Z" name="createandDeletetweet" finished-at="2021-04-08T10:02:16Z" duration-ms="4028" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createandDeletetweet -->
+        <test-method signature="getTweet()[pri:0, instance:Testframework.Restassured.twitter@41fe9859]" started-at="2021-04-08T10:02:16Z" name="getTweet" finished-at="2021-04-08T10:02:18Z" duration-ms="1534" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTweet -->
+      </class> <!-- Testframework.Restassured.twitter -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

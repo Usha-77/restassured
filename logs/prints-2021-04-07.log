@@ -1,0 +1,6 @@
+15:46:14.991 [main] INFO  Testframework.Restassured.trendhash - trends in us:
+15:46:15.009 [main] INFO  Testframework.Restassured.trendhash - trends in uk:
+15:46:15.009 [main] INFO  Testframework.Restassured.trendhash - trends in israel:
+17:14:20.503 [main] INFO  Testframework.Restassured.TrendingHashtag - Indian trends are displayed
+17:14:20.504 [main] INFO  Testframework.Restassured.TrendingHashtag - trends in us:
+17:14:20.505 [main] INFO  Testframework.Restassured.TrendingHashtag - trends in uk:

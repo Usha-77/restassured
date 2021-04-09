@@ -1,0 +1,3 @@
+17:14:20.505 [main] INFO  Testframework.Restassured.TrendingHashtag - trends in israel:
+10:02:17.990 [main] INFO  Testframework.Restassured.twitter - [1379685303653294080]
+10:02:18.015 [main] INFO  Testframework.Restassured.twitter - [Iam learning APItesting using Restassured Java #Qualitest121]
